@@ -1,0 +1,176 @@
+body { 
+  background: #6A0DAD;
+  font-size: 1.3rem; 
+  color: white; 
+ 
+}
+
+a:link, a:visited {
+  color:greenyellow ;
+  text-decoration: none;
+}
+a:hover, a:active {
+  color: #FFF9D1; 
+  text-decoration: none;
+}
+ 
+
+
+h1, h2, h3 {
+   color: white; 
+   font-family: 'Ubuntu', sans-serif;
+   text-shadow:2px 2px 4px #000000;
+ }
+ .nermi {
+   color: greenyellow;
+   font-family: Julee;
+   font-size: 50px; 
+   text-shadow:2px 2px 4px rgba(0, 0, 0, 0.986);color: greenyellow;
+ }
+ .web {
+   color: white;
+   font-family: Julee;font-size: 50px;
+ }
+ .pro {
+   background: #FFF9D1;
+   background: linear-gradient(to top, #FFF9D1 48%, #FFFDEB 29%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-family: Julee;
+   font-size: 30px;
+ }
+.phone {
+	text-align: center;
+	font-size: 24px;
+}
+.that {
+    writing-mode: vertical-rl;text-orientation: mixed;
+    position: absolute; 
+    top: 43%;
+    left: 56%;
+}
+.creat {
+	position: absolute;
+	top: 10%;
+	left: 16%;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 7.5rem;
+   text-shadow:2px 2px 4px #000000;color: #3EA99F;
+   border: 1px solid whitesmoke;
+   height: 25%;
+}
+.fut {
+    position: absolute; 
+    top: 80%;
+    left: 7%;	font-family: 'Ubuntu', sans-serif;
+    border: 1px solid whitesmoke;
+ }
+ .is {
+    position: absolute; 
+    top: 33%;
+    left: 60%;	font-family: 'Ubuntu', sans-serif;
+	
+ }
+.butt {
+ 	position: absolute;
+ 	top: 25%;
+ 	left: auto;
+ }
+ .text {
+    margin-top: 10%;
+    text-align: left;	
+ }
+ .bg {
+   background-image: url(".png");
+   background-position: center 30%;
+   background-repeat: no-repeat;
+}
+.module-border-wrap {
+  max-width: 100%;
+  padding-bottom: 2px;
+  position: relative;
+  background: linear-gradient(to right, purple, blue);
+}
+
+.creativ {
+   text-align: right;
+   padding-top: 20%;
+   position: absolute;
+   left: 17%;
+   top: 25%;
+   width: 23%;
+   font-size: 2rem;
+   color: greenyellow;
+   font-family: Julee;
+}
+
+ .arrows {
+   padding-left: 55px;
+     color: yellow;
+      list-style-type: none;
+}
+
+.card {
+  backdrop-filter: blur(25px) saturate(119%);
+  -webkit-backdrop-filter: blur(25px) saturate(119%);
+  background-color: rgba(255, 255, 255, 0.11);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+width: 95%;
+margin: 0 auto;
+}
+
+
+.drvo {
+ 
+}
+
+footer  {
+  background: #36454F;
+  width: 100%;
+  padding: 1% 0; 
+}
+
+.NermiCre {
+  color: greenyellow;
+   font-family: Julee; 
+   text-shadow:2px 2px 4px rgba(0, 0, 0, 0.986);
+   font-size: 1.5rem; 
+}
+.webN {
+  color: #FFF9D1;
+   font-family: Julee;
+   font-size: 1.5rem; 
+}
+.little-para {
+  margin-left: 10%;
+   
+}
+.little-text {
+  font-size: 1.2rem;
+}
+
+.navbar {
+  margin:0; padding: 0;
+
+}
+.last {
+  padding-top: 10%;
+  color: #FFF9D1;
+  font-size: 1.0rem;
+}
+.right-para {
+  padding-left: 10%;
+ 
+.read {
+  padding-top: 4%;
+  text-align: right;
+}
+/*color para */
+.new {
+  background: white;
+  background: linear-gradient(to top, #FFF9D1 48%, #7F0081 29%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.0rem;
+}
